@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. Please follow [Discrete-Continuous-VLN](https://github.com/YicongHong/Discrete-Continuous-VLN) to set up your environments, prepare scene dataset of MP3D, download the adapted mp3d connectivity graphs, and the pretrained ddppo ResNet encoder. Data and model path should be similar to Discrete-Continuous VLN.
+1. Please follow [Discrete-Continuous-VLN](https://github.com/YicongHong/Discrete-Continuous-VLN) to set up your environments, prepare scene dataset of MP3D, download the adapted mp3d connectivity graphs, and the pretrained ddppo ResNet encoder. Data and model path should be similar to Discrete-Continuous VLN. Download the adapted mp3d graphs from [here](https://drive.google.com/drive/folders/1wpuGAO-rRalPKt8m1-QIvlb_Pv1rYJ4x?usp=sharing).
 
 2. Change the data path `/home/vlnce/vln-ce/data/` in the codes to your above data path.
 3. Change the `RAW_GRAPH_PATH` in the codes to your unzipped adapted mp3d connectivity graphs.
