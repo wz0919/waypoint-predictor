@@ -12,7 +12,7 @@ scene_path = '/home/vlnce/vln-ce/data/scene_datasets/mp3d/{scan}/{scan}.glb'
 image_path = './training_data/rgbd_fov90/'
 save_path = os.path.join(image_path,'{split}/{scan}/{scan}_{node}_mp3d_imgs.pkl')
 RAW_GRAPH_PATH= '/home/vlnce/habitat_connectivity_graph/%s.json'
-NUMBER = 120
+NUMBER = 12
 
 SPLIT = 'train'
 
